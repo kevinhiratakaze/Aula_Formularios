@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Play:wght@400;700&family=Shadows+Into+Light&display=swap');
+
+
+h1{
+    color: blue;
+    font-family: "Doto", sans-serif;
+}
+
+div{
+    background-color: rgb(113, 113, 201);
+    border: solid 2px black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.caixa{
+    background-color: chartreuse;
+}
+
+div a:hover {
+    color: white;
+}
+
+#ultimaCaixa {
+    background-color: burlywood;
+}
+
+p a:hover{
+    color: rgb(18, 194, 56);
+    font-size: larger;
+}
+
+label{
+    color: darkgoldenrod;
+    font-family: "Shadows Into Light", cursive;
+    font-size: 27px;
+}
+
+button{
+    color: rgb(38, 16, 117);
+    font-family: "Play", sans-serif;
+}
+
+input{
+    border-color: blue;
+}
+    
